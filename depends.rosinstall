@@ -10,9 +10,11 @@
 - git:
     local-name: isri-aist/NMPC
     uri: https://github.com/isri-aist/NMPC
+    version: ros1
 - git:
     local-name: isri-aist/QpSolverCollection
     uri: https://github.com/isri-aist/QpSolverCollection
 - git:
     local-name: isri-aist/TrajectoryCollection
     uri: https://github.com/isri-aist/TrajectoryCollection
+    version: ros1
