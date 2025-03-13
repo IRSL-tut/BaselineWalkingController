@@ -14,6 +14,7 @@
 - git:
     local-name: isri-aist/QpSolverCollection
     uri: https://github.com/isri-aist/QpSolverCollection
+    version: ros1
 - git:
     local-name: isri-aist/TrajectoryCollection
     uri: https://github.com/isri-aist/TrajectoryCollection
