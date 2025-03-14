@@ -7,6 +7,7 @@
 - git:
     local-name: isri-aist/ForceControlCollection
     uri: https://github.com/isri-aist/ForceControlCollection
+    version: ros1
 - git:
     local-name: isri-aist/NMPC
     uri: https://github.com/isri-aist/NMPC
