@@ -1,6 +1,7 @@
 - git:
     local-name: isri-aist/BaselineFootstepPlanner
     uri: https://github.com/isri-aist/BaselineFootstepPlanner
+    version: ros1
 - git:
     local-name: isri-aist/CentroidalControlCollection
     uri: https://github.com/isri-aist/CentroidalControlCollection
